@@ -9,6 +9,7 @@ cout<<"This code calculates percentage";
 double percent(double num, double deno)
 {
   return num/deno;
+cout<<"This is Desktop Edition";
   
 }
 //This is an update by owner
